@@ -38,4 +38,4 @@ number3
 python3 main.py
 ```
 
-All the usernames will be stored in info after programs ends
+All the usernames will be stored in info.txt after programs ends
